@@ -1,4 +1,4 @@
-# Southern Ocean along 110E and 140E: Evaluation for 2023 MIZ VoyagE
+# Southern Ocean along 110E and 140E: Evaluation for 2023 MIZ Voyage
   
 A collaborative project to evaluate the ACCESS-OM2-01 model in the Southern Ocean along 110E and 140E: the possible cruise lines for the MIZ 2023 research cruise. All alre welcome to work on analysis scripts together, suggest new analysis directions, discuss figures etc.
 
