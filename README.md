@@ -1,4 +1,4 @@
-# Southern Ocean along 110E and 140E: Evaluation for 2023 Margin Ice Zone  Voyage
+# Southern Ocean along 110E and 140E: Evaluation for 2023 Marginal Ice Zone  Voyage
   
 A collaborative project to evaluate the Southern Ocean along 110E and 140E: the possible cruise lines for the MIZ 2023 research cruise. All are welcome to work on analysis scripts together, suggest new analysis directions, discuss figures etc. The initial focus may be on the ACCESS-OM2-01 JRA IAF simulations.
 
